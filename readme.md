@@ -1,5 +1,5 @@
 # Chris' Website
-[sour.haus](https://sour.haus/))
+[sour.haus](https://sour.haus/)
 
 ## Built With
 - [NES.css](nostalgic-css.github.io/nes.css/)
